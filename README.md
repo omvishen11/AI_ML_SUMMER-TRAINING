@@ -14,7 +14,5 @@ PROJECT 9 https://k-means-bj3fub4vfvnj9dc6pzf52r.streamlit.app/
 
 PROJECT 11 https://covid-detection-egyhzg5c3gs7uwtvyqpw9v.streamlit.app/
 
-PROJECT 12 https://gender-detection-gk9mrajurqxgz6qsdl6jgy.streamlit.app/
-
-PROJECT 13 https://gender-detection-gk9mrajurqxgz6qsdl6jgy.streamlit.app/
+PROJECT 12 https://gender-detection-gk9mra
 
